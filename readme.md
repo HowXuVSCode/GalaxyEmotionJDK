@@ -1,5 +1,5 @@
 # Galaxy Emotion
-![OpenJDK](./icon.png)
+![OpenJDK](./new_icon.jpg)
 
 ![](https://img.shields.io/badge/OpenJDK-CLI-blue) ![](https://img.shields.io/badge/Dragonwell-Alibaba-green) ![](https://img.shields.io/badge/Liberica-bellsoft-blue)
 
