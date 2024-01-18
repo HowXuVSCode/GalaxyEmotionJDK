@@ -9,7 +9,7 @@
 After JDK8，the JDK source make doesn't provide JRE images , you can get it by :
 
 ```baah
-jlink.exe --module-path jmods --add-modules java.desktop --output jre
+jlink --module-path jmods --add-modules java.desktop --output jre
 ```
 JRE will be exported in the./jre folder.
 
