@@ -18,5 +18,7 @@ IDEA may not work well for some vendor problem or version problem . It will be s
 
 If you want to use GalaxyEmotion in your IDEA , please replace the **rt.jar** file somewhere in the JDK install path with the same rt.jar file of Bellsoft Liberica JDK.  
 
+**Now this bug has been fixed**
+
 Complier: Howxu  
 email: <howxu366@outlook.com>
